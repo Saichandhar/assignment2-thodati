@@ -17,3 +17,14 @@
    - cloths
 
    [About me](/AboutMe.md)
+
+   ***
+   ## Information about foods and drinks
+   The following table consists of food/drinks, location and price
+
+   | Syntax      | Description |  Description |
+| ----------- | ----------- | -----------|
+| Header      | Title       |  Title       |
+| Paragraph   | Text        |  Title       |
+   
+   
