@@ -22,9 +22,11 @@
    ## Information about foods and drinks
    The following table consists of food/drinks, location and price
 
-   | Syntax      | Description |  Description |
-| ----------- | ----------- | -----------|
-| Header      | Title       |  Title       |
-| Paragraph   | Text        |  Title       |
+|food/drinks           | Location                  |  amount    |      
+| ---------------------| --------------------------| -----------|
+| chicken biryani      | KS biryani center,Kansas  |  $17       |
+| mutton pulusu        | Dawwath, Dallas           |  $23       |
+| Fish fry             | Indian recipie, Kansas    |  $18       |
+| Egg fried rice       |Indian recipie, Kansas     |  $10       |
    
    
