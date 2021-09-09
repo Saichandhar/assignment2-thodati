@@ -31,9 +31,9 @@
    
 ## Quotes
 >Intelligence is the ability to adapt to change.
--*Stephen Hawking*
+   -*Stephen Hawking*
 
 
 >Death is so terribly final, while life is full of possibilities.
--*George R.R Martin *
+   -*George R.R Martin *
    
